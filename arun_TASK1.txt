@@ -1,0 +1,15 @@
+0,0,0,1,chapone
+0,0,1,0,chapone
+0,0,1,1,chapone
+0,1,0,0,chapone
+0,1,0,1,chapone
+0,1,1,0,chaptwo
+0,1,1,1,chaptwo
+1,0,0,0,chaptwo
+1,0,0,1,chaptwo
+1,0,1,0,chaptwo
+1,0,1,1,chaptri
+1,1,0,0,chaptri
+1,1,0,1,chaptri
+1,1,1,0,chaptri
+1,1,1,1,chaptri
